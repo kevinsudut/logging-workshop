@@ -1,0 +1,20 @@
+# idea
+.idea
+.vscode
+
+# app specific vendor
+vendor
+
+# log
+*.log
+debug.log
+error.log
+
+*.out
+/test
+
+# sonar
+.scannerwork
+
+# mac
+.DS_Store
